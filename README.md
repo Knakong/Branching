@@ -9,7 +9,11 @@
 * `git log --oneline` list commit (compact format)
 * `git status` shows the differnt commits
 
+
 ### Branching Commands
 * `git branch` - list local branches
 * ` git branch branchName` - creates new local branch `branchName`
 * `git checkout branchName` - switch to branch `branchName`
+=======
+# Branching
+
