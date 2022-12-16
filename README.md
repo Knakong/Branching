@@ -8,3 +8,4 @@
 * `git log` list commits
 * `git log --oneline` list commit (compact format)
 * `git status` shows the differnt commits
+# Branching
