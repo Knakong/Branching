@@ -12,4 +12,4 @@
 ### Branching Commands
 * `git branch` - list local branches
 * ` git branch branchName` - creates new local branch `branchName`
-* `git checkout branchName` - switch to brnach `branchName`
+* `git checkout branchName` - switch to branch `branchName`
